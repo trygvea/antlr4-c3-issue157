@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "target": "ES2022",
+    "module": "ESNext",
+    "allowJs": false,
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationDir": "./dist",
+    "sourceMap": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+  },
+  "include": ["src", "generated"],
+  "exclude": [
+    "node_modules", "**/__test__/**", "**/__tests__/**"
+  ]
+}
