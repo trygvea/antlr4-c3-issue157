@@ -890,9 +890,9 @@ antlr4ng@3.0.4:
   integrity sha512-u1Ww6wVv9hq70E9AaYe5qW3ba8hvnjJdO3ZsKnb3iJWFV/medLEEhbyWwXCvvD2ef0ptdaiIUgmaazS/WE6uyQ==
 
 antlr4ng@^3.0.1:
-  version "3.0.4"
-  resolved "https://artifactory.mnemonic.no:443/artifactory/api/npm/npm-all/antlr4ng/-/antlr4ng-3.0.4.tgz#71a47e6148ae75f72fa5f27fbed5ef3462815c7c"
-  integrity sha512-u1Ww6wVv9hq70E9AaYe5qW3ba8hvnjJdO3ZsKnb3iJWFV/medLEEhbyWwXCvvD2ef0ptdaiIUgmaazS/WE6uyQ==
+  version "3.0.7"
+  resolved "https://artifactory.mnemonic.no:443/artifactory/api/npm/npm-all/antlr4ng/-/antlr4ng-3.0.7.tgz#285fce9492119e3e3070ea12d0a8275c7900e3ef"
+  integrity sha512-e9VzrS6fErCUTmkZX2eKEMCsmYY87gVhmHkzmOXtUDgvwGhivUvtiHqlOByDx4Nd1PIQ0lMlhflOWEz6cGXqKA==
 
 anymatch@^3.0.3:
   version "3.1.3"
